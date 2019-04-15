@@ -28,6 +28,12 @@ var dataExtensions = [
         name: 'Object',
         imageClass: '',
         displayName: 'Object'
+    },
+    {
+        className: 'CosmosDBSQLAPIDataSource',
+        name: 'CosmosDBSQLAPI',
+        imageClass: '',
+        displayName: 'Cosmos DB SQLAPI'
     }
 ];
 var itemExtensions = [{
