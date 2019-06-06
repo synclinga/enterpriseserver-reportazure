@@ -22,6 +22,12 @@ var dataExtensions = [
         name: 'WebAPI',
         imageClass: 'e-reportdesigner-datasource-webapi',
         displayName: 'WebAPI'
+    },
+    {
+        className: 'CosmosDBSQLAPIDataSource',
+        name: 'CosmosDBSQLAPI',
+        imageClass: '',
+        displayName: 'Cosmos DB SQLAPI'
     }
 ];
 var itemExtensions = [{
